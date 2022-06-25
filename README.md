@@ -1,10 +1,13 @@
 ### ⚡ Build - Install - Troubleshoot - Code - Create - Operate - Refactor - Manage ⚡ 
 ___
-<img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
+<h1 align="center"> Hello! My name is David.<h1>
+<h5 align="center">
+  I am a Software Engineer with a degree in Computer Science. I’ve created SQL and NoSQL (MongoDB) Databases and successfully developed an interactive video game. I joined a team of other engineers and designers to build a robot for a competition hosted by Panasonic, and most recently I served as an associate for Amazon, providing leadership and training for fellow associates. The digital realm of computers has always been a passion of mine and I enjoy building meaningful applications with socially conscious teams.
+</h5>
 
-Connect with me on: [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+___
+## Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
 
  ### :hammer_and_wrench: Languages and Tools :
  ___
@@ -33,11 +36,17 @@ Connect with me on: [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin
   
 </div>
 
-###  ⚡ Streaks  |  Stats  |  Top Langs ⚡
-___
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=daydin14&theme=radical&background=000000)](https://git.io/streak-stats)
-___
-![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin&show_icons=true&theme=bear)
-___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-___
+<div align="center">
+ 
+  ### Stats 
+  ___
+  ![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin&show_icons=true&theme=bear)
+
+  ### Streaks
+  ___
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=daydin14&theme=radical&background=000000)](https://git.io/streak-stats)
+
+  ### Top Langs
+  ___
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+</div>
