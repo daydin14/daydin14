@@ -49,4 +49,20 @@ ___
   ### Top Langs
   ___
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=daydin14&theme=github"/>
+</div>
+
+<div align="center">
+    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=daydin14&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+</div>
+
+  
+![](https://stats.justsong.cn/api/github?username=daydin14)![](https://stats.justsong.cn/api/daydin14?username=daydin14)
 </div>
