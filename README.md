@@ -1,19 +1,12 @@
+___
 ###  Hi there 👋
-
-⚡ Build - Install - Troubleshoot - Code - Manage - Operate - Create ⚡
-
-<!-- <div id="badges">
-  <a href="https://www.linkedin.com/in/dmaydin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-</div> -->
-<img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
+⚡ Build - Install - Troubleshoot - Code - Manage - Operate - Create ⚡ 
 
 
-
- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
- 
+Connect with me on: [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
  ### :hammer_and_wrench: Languages and Tools :
+ ___
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
@@ -38,3 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
 </div>
+
+## Stats
+___
+![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin&show_icons=true&theme=dracula)
