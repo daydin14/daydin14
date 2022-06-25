@@ -11,7 +11,7 @@ ___
 
  ### :hammer_and_wrench: Languages and Tools :
  ___
- <div>
+ <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsCode" alt="vsCode" width="40" height="40"/>&nbsp;
