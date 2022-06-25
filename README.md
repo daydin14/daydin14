@@ -2,9 +2,9 @@
 ___
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
 <h1 align="center"> Hello! My name is David.<h1>
-<h5 align="center">
+<p align="center">
   I am a Software Engineer with a degree in Computer Science. I’ve created SQL and NoSQL (MongoDB) Databases and successfully developed an interactive video game. I joined a team of other engineers and designers to build a robot for a competition hosted by Panasonic, and most recently I served as an associate for Amazon, providing leadership and training for fellow associates. The digital realm of computers has always been a passion of mine and I enjoy building meaningful applications with socially conscious teams.
-</h5>
+</p>
 
 ___
 ## Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
