@@ -1,5 +1,11 @@
-### ⚡ Build - Install - Troubleshoot - Code - Create - Operate - Refactor - Manage ⚡ 
+
+### daydin14
 ___
+
+<div align="center">
+	⚡ Build - Install - Troubleshoot - Code - Create - Operate - Refactor - Manage ⚡ 
+</div>
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
 <h1 align="center"> Hello! My name is <a href="https://daydin14.netlify.app/">David.</a><h1>
 <p align="center">
@@ -40,33 +46,31 @@ ___
   
 </div>
 
-<div align="center">
- 
-  ### Stats 
-  ___
+<div align="center" id="stats-streaks-languages">
+	
   ![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin&show_icons=true&theme=bear)
-
-  ### Streaks
-  ___
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=daydin14&theme=radical&background=000000)](https://git.io/streak-stats)
-
-  ### Top Langs
-  ___
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-  
 
-<div align="center">
+</div>
+
+<div align="center" id="snake">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=daydin14&theme=github"/>
+	
+<div align="center" id="graph">
+	<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=daydin14&theme=github"/>
 </div>
 
-<div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=daydin14&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
+	
+<div align="center" id="trophies">
+	<img height="150px" src="https://github-profile-trophy.vercel.app/?username=daydin14&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
-  
+<div align="center" id="stats">
+	
 ![](https://stats.justsong.cn/api/github?username=daydin14)![](https://stats.justsong.cn/api/daydin14?username=daydin14)
+	
 </div>
+
