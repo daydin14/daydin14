@@ -1,5 +1,8 @@
 ___
-###  Hi there 👋
+### HELLO WORLD
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
+<strong><h1>HELLO WORLD</h1></strong>
+
 <img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
 ⚡ Build - Install - Troubleshoot - Code - Manage - Operate - Create ⚡ 
 
@@ -32,6 +35,12 @@ Connect with me on: [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin
   
 </div>
 
-## Stats
+###  ⚡⚡⚡ 
 ___
-![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin&show_icons=true&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=daydin14&theme=radical&background=000000)](https://git.io/streak-stats)
+
+### Stats
+___
+![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin&show_icons=true&theme=bear)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
