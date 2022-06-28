@@ -19,8 +19,9 @@ ___
 ___
 Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
 
- ### :hammer_and_wrench: Languages and Tools :
- ___
+___
+:hammer_and_wrench: Languages and Tools :
+
  <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
