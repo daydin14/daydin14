@@ -17,7 +17,7 @@ ___
 </p>
 
 ___
-## Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
+Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
 
  ### :hammer_and_wrench: Languages and Tools :
  ___
