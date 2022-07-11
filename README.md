@@ -7,7 +7,7 @@ ___
 </div>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
-<h1 align="center"> Hello! My name is <a href="https://daydin14.netlify.app/">David.</a><h1>
+<h1 align="center"> Hello! My name is <a href="https://daydin14.github.io">David.</a><h1>
 <p align="center">
   I am a Software Engineer with a degree in Computer Science. 
 	The digital realm of computers has always been a passion of mine and 
