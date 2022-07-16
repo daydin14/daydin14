@@ -11,7 +11,7 @@ ___
 <p align="center">
   I am a Software Engineer with a degree in Computer Science. 
 	The digital realm of computers has always been a passion of mine and 
-		I enjoy building meaningful applications with socially conscious teams. 
+	I enjoy building meaningful applications with socially conscious teams. 
 	Part of my free time I build and install computers as a hobby. 
 	A fun fact about me would be that I am a triplet.
 </p>
