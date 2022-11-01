@@ -1,6 +1,10 @@
-
 ### daydin14
 ___
+<div align="right">
+	
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oslr662fp5lh5bnyrfbzmcuyt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
 
 <div align="center">
 	⚡ Build - Install - Troubleshoot - Code - Create - Operate - Refactor - Manage ⚡ <br/><a href="https://honzaap.github.io/GithubCity/?name=daydin14&year=2022">GitHub City</a>
