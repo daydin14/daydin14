@@ -1,40 +1,45 @@
 ### daydin14
 ___
+<div align="center">
+	
+⚡ Build - Install - Troubleshoot - Code - Create - Operate - Refactor - Manage ⚡ <br/><a href="https://honzaap.github.io/GithubCity/?name=daydin14&year=2022">Visit My GitHub City</a>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" align="left"/>
+<img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
+
 <div align="right">
+	
+[![Linkedin Badge](https://img.shields.io/badge/-daydin14-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daydin14/)
+
+</div>
+
+<h1> Hello! My name is <a href="https://daydin14.github.io">David.</a></h1>
+</div>
+
+<div align="right">
+	
+### Currently Playing / Last Played on Spotify
 	
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oslr662fp5lh5bnyrfbzmcuyt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
-
-<div align="center">
-	⚡ Build - Install - Troubleshoot - Code - Create - Operate - Refactor - Manage ⚡ <br/><a href="https://honzaap.github.io/GithubCity/?name=daydin14&year=2022">GitHub City</a>
-
-</div>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
-<h1 align="center"> Hello! My name is <a href="https://daydin14.github.io">David.</a></h1>
-
-<p align="center">
-  I am a Software Engineer with a degree in Computer Science. 
-	The digital realm of computers has always been a passion of mine and 
-	I enjoy building meaningful applications with socially conscious teams. 
-	Part of my free time I build and install computers as a hobby. 
-	A fun fact about me would be that I am a triplet.
+</div><p align="center">
+	I am a Software Engineer with a degree in Computer Science. The digital realm of computers has always been a passion of mine and I enjoy building meaningful applications with socially conscious teams. Part of my free time I build and install computers as a hobby. A fun fact about me would be that I am a triplet.
 </p>
 
-<div align="center">
-    <a href="https://app.daily.dev/daydin14">
-    	<img src="https://api.daily.dev/devcards/f1304e48610b467b86595027ce24aceb.png?r=k2q" height="400" alt="David's Dev Card" align="left"/>
-    </a>
+
+<a href="https://app.daily.dev/daydin14">
+	<img src="https://api.daily.dev/devcards/f1304e48610b467b86595027ce24aceb.png?r=k2q" height="400" alt="David's Dev Card" align="left"/>
+</a>
+
+
+___
+
+<div align="right">
+	
+### :hammer_and_wrench: Languages and Tools :
+
 </div>
-
-___
-Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-daydin14-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daydin14/)
-
-___
-:hammer_and_wrench: Languages and Tools :
-
- <div align="center">
+ <div align="right">
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -53,12 +58,15 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40px" height="40px"/>
+	
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="FireBase" alt="FireBase" width="40" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
