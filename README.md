@@ -12,7 +12,7 @@ ___
 </div>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
-<h1 align="center"> Hello! My name is <a href="https://daydin14.github.io">David.</a><h1>
+<h1 align="center"> Hello! My name is <a href="https://daydin14.github.io">David.</a></h1>
 
 <p align="center">
   I am a Software Engineer with a degree in Computer Science. 
@@ -21,14 +21,15 @@ ___
 	Part of my free time I build and install computers as a hobby. 
 	A fun fact about me would be that I am a triplet.
 </p>
+
 <div align="center">
     <a href="https://app.daily.dev/daydin14">
-    	<img src="https://api.daily.dev/devcards/f1304e48610b467b86595027ce24aceb.png?r=k2q" width="400" alt="David's Dev Card"/>
+    	<img src="https://api.daily.dev/devcards/f1304e48610b467b86595027ce24aceb.png?r=k2q" height="400" alt="David's Dev Card" align="left"/>
     </a>
 </div>
 
 ___
-Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-davidmaydin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmaydin/)
+Connect with me here : [![Linkedin Badge](https://img.shields.io/badge/-daydin14-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daydin14/)
 
 ___
 :hammer_and_wrench: Languages and Tools :
