@@ -18,25 +18,26 @@ ___
 
 <div align="right">
 	
+<p align="center">
+	I am an innovative and deadline-driven Software Engineer developing user-centered and generic applications from initial concept to final, polished deliverable. I build and install computers, play golf, and love to learn. A fun fact about me would be that I am a triplet.
+</p>
+	
 ### Currently Playing / Last Played on Spotify
 	
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oslr662fp5lh5bnyrfbzmcuyt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</div><p align="center">
-	I am a Software Engineer with a degree in Computer Science. The digital realm of computers has always been a passion of mine and I enjoy building meaningful applications with socially conscious teams. Part of my free time I build and install computers as a hobby. A fun fact about me would be that I am a triplet.
-</p>
-
-
-<a href="https://app.daily.dev/daydin14">
-	<img src="https://api.daily.dev/devcards/f1304e48610b467b86595027ce24aceb.png?r=k2q" height="400" alt="David's Dev Card" align="left"/>
-</a>
-
+</div>
 
 ___
-
 <div align="right">
+	<div align="left">
+		<a href="https://app.daily.dev/daydin14">
+			<img src="https://api.daily.dev/devcards/f1304e48610b467b86595027ce24aceb.png?r=k2q" height="400" alt="David's Dev Card" align="left"/>
+		</a>
+	</div>
 	
-### :hammer_and_wrench: Languages and Tools :
+	
+### :hammer_and_wrench: Skills, Languages, and Tools :hammer_and_wrench:
 
 </div>
  <div align="right">
@@ -63,7 +64,8 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-
+	
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" alt="Netlify" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="FireBase" alt="FireBase" width="40" height="40"/>&nbsp;
   
@@ -73,33 +75,25 @@ ___
   
 </div>
 
-<div align="center" id="stats-streaks-languages">
-
- 
-  ![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin14&show_icons=true&theme=bear)
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=daydin14&theme=radical&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
-<div align="center" id="snake">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" width="75%"/>
+	<img src="https://activity-graph.herokuapp.com/graph?username=daydin14&theme=github" height="300px" />
 	
-<div align="center" id="graph">
-	<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=daydin14&theme=github"/>
 </div>
 
-	
-<div align="center" id="trophies">
-	<img height="150px" src="https://github-profile-trophy.vercel.app/?username=daydin14&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
-
-<div align="center" id="stats">
+<!-- <div align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=daydin14&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15" height="85px"/>
 	
 ![](https://stats.justsong.cn/api/github?username=daydin14)![](https://stats.justsong.cn/api/daydin14?username=daydin14)
 	
 </div>
 
+<div align="center">
+
+  ![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin14&show_icons=true&theme=bear)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=daydin14&theme=radical&background=000000)](https://git.io/streak-stats)
+
+
+</div>
+-->
