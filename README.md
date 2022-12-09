@@ -84,7 +84,9 @@ ___
 
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" title="Snake" alt="Snake.io of commits" width="75%"/>
+	<!--
 	<img src="https://activity-graph.herokuapp.com/graph?username=daydin14&theme=github" title="Git Graph" alt="Git Contribution Graph" height="300px" />
+-->
 	
 </div>
 
