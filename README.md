@@ -2,7 +2,9 @@
 ___
 <div align="center">
 	
-⚡ Build - Install - Troubleshoot - Code - Create - Operate - Refactor - Manage ⚡ <br/><a href="https://honzaap.github.io/GithubCity/?name=daydin14&year=2023">Visit My GitHub City</a>
+⚡ Build - Install - Troubleshoot - Code - Create - Operate - Refactor - Manage ⚡ <br/>
+<a href="https://honzaap.github.io/GithubCity/?name=daydin14&year=2024">Visit My GitHub City</a>🏙️ <br/>
+*Play around with the name and year within the GitHub City URL*
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" align="left"/>
 <img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/>
@@ -17,7 +19,7 @@ ___
 </div>
 
 <p align="center">
-	I am an innovative and deadline-driven Software Engineer developing user-centered and generic applications from initial concept to final, polished deliverable. I build and install computers, play golf, and love to learn. A fun fact about me would be that I am a triplet.
+	I am an innovative, deadline-driven software engineer who develops user-centered and generic applications from initial concepts to final, polished deliverables. I build and install computers, play golf, and love to learn. A fun fact about me would be that I am a triplet.
 </p>
 
 <div align="right">
@@ -47,9 +49,11 @@ ___
 <!-- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
 -->
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40px" height="40px"/>&nbsp;
   
   <!-- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>
@@ -61,8 +65,9 @@ ___
    
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C-Sharp" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original.svg" title="NuGet" alt="NuGet" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotnetCore" alt="DotnetCore" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40px" height="40px"/>
     
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -98,17 +103,12 @@ ___
   
 </div>
 
-
-<!--
-
 <div align="left">
 
   ![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin14&show_icons=true&theme=bear)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <!--
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=daydin14&theme=radical&background=000000)](https://git.io/streak-stats)
-
+  -->
 </div>
-
--->
