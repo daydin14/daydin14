@@ -17,7 +17,7 @@ ___
 </div>
 
 <p align="center">
-	In my free time, I like to build new computers, play golf, and continue learning. <br/> A fun fact about me would be that I am a triplet.
+	In my free time, I like to build new computers, play golf, and continue learning. <br/> A fun fact about me is that I am a triplet.
 </p>
 
 <div align="right">
@@ -35,10 +35,8 @@ ___
 	</a>
   
 <div align="right">
-	
-![daydin14's github stats](https://github-readme-stats.vercel.app/api?username=daydin14&show_icons=true&theme=bear)
-  		
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daydin14&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://ghstats.dev/api/langs?username=daydin14&layout=donut_vertical)
 
 </div>
 
