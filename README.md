@@ -1,21 +1,15 @@
+<div align="right">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-daydin14-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daydin14/)
+![Profile views](https://komarev.com/ghpvc/?username=daydin14&style=for-the-badge&color=ff69b4)
+
+</div>
+
 <div align="center">
 
 # Hi, I'm [David](https://daydin14.github.io) 👋
 
 I enjoy building computers and learning new things. Fun fact: I'm a triplet.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-daydin14-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daydin14/)
-![Profile views](https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue)
-
-</div>
-
-## Web Stats
-
-<div align="center">
-
-[<img src="https://api.daily.dev/devcards/v2/U9PXItaTMfHdsoM3wCKuT.png?type=default&r=avf" alt="David's Daily.dev card" width="340"/>](https://app.daily.dev/daydin14)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Top languages](https://ghstats.dev/api/langs?username=daydin14&layout=donut_vertical)
 
 </div>
 
@@ -35,11 +29,8 @@ I enjoy building computers and learning new things. Fun fact: I'm a triplet.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="Blazor" alt="Blazor" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="VB.NET" alt="VB.NET" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 
 </div>
